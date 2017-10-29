@@ -1,15 +1,17 @@
 # HW - {liri-node-app}
 
 ## CLI that displays Twitter, Spotify, and OMDB API responses with the following arguments:
---help  
+--help 
+
 my-tweets
+
 spotify-this-song
+
 movie-this
+
 do-what-it-says
 
 ## Requirements
-#### Add a simple description of what the HW requirements were
-
 - Use Node.js to create a CLI that requests info from popular API's
 - Utilize modularization of different Node.js packages and JavaScript files
 - Create an intuitive UX with easy-to-use & streamlined commands
