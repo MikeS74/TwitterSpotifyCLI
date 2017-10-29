@@ -11,6 +11,8 @@ movie-this
 
 do-what-it-says
 
+![alt text](./img/LIRI-HW-demo5.gif)
+
 ## Requirements
 - Use Node.js to create a CLI that requests info from popular API's
 - Utilize modularization of different Node.js packages and JavaScript files
