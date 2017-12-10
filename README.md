@@ -1,4 +1,4 @@
-# HW - {liri-node-app}
+# Twitter/Spotify CLI
 
 ## CLI that displays Twitter, Spotify, and OMDB API responses with the following arguments:
 --help 
